@@ -1,0 +1,1 @@
+cout<< "Xin chao co va cac ban cua Phu_52"
